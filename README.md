@@ -1,5 +1,15 @@
 # Welcome to my Gatherly project
 
+Gatherly is a streamlined event platform designed for developers, tech communities, and digital organizers. It enables users to create, manage, and register for tech-focused events such as meetups, webinars, hackathons, and virtual conferences.
+
+This project is ideal for anyone looking to host or attend technology-driven events online.
+
+## Key Features
+
+- Attendee registration
+- Event creation and publishing
+- User authentication (sign-up and login) for both attendees and organizers
+
 ## How to run my code?
 
 **Use your preferred IDE**
@@ -20,7 +30,7 @@ npm install
 npm run dev
 ```
 
-## What technologies are used for this project?
+## Technologies used for this project
 
 This project is built with:
 
@@ -29,3 +39,7 @@ This project is built with:
 - Tailwind CSS
 - vite
 - shadcn-ui
+
+## Author
+
+[Sirri Ayongwa] (https://sirri-portfolio-7lisv8t.gamma.site/)

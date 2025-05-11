@@ -91,7 +91,7 @@ const Footer: React.FC = () => {
               rel="noopener noreferrer"
               className="hover:text-gatherly-neon transition-colors"
             >
-              Developed by Sirri
+              Developed by Sirri Ayongwa
             </a>
           </p>
         </div>
