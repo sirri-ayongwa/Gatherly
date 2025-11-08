@@ -42,4 +42,4 @@ This project is built with:
 
 ## Author
 
-[Sirri Ayongwa](https://sirri-portfolio-7lisv8t.gamma.site)
+[Sirri Ayongwa](https://sirri-portfolio.vercel.app/)
